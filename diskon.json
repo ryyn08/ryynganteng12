@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "code": "RY-DISC-4ZF8Q",
+    "nominal": 1000,
+    "expired": "2026-03-22 16:15",
+    "kuota": 1,
+    "min_harga": 2000,
+    "status": "active",
+    "created_at": "22/3/2026, 16.12.00"
+  }
+]
