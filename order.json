@@ -7,5 +7,14 @@
       "priceInquiry": 0,
       "complaints": 1
     }
+  },
+  "6285814422462@s.whatsapp.net": {
+    "id": "6285814422462@s.whatsapp.net",
+    "name": "Ignite Official",
+    "order": null,
+    "behavior": {
+      "priceInquiry": 0,
+      "complaints": 0
+    }
   }
 }
