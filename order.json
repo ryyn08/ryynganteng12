@@ -29,12 +29,7 @@
   "6285811500108@s.whatsapp.net": {
     "id": "6285811500108@s.whatsapp.net",
     "name": "Rex",
-    "order": {
-      "id": "INV9822",
-      "product": "Produk Digital",
-      "status": "PENDING",
-      "step": "PAYMENT"
-    },
+    "order": null,
     "behavior": {
       "priceInquiry": 0,
       "complaints": 0
