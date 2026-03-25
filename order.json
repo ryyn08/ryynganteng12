@@ -1,12 +1,9 @@
 {
   "13889974616127@lid": {
-    "id": "13889974616127@lid",
-    "name": "Kak",
-    "order": null,
-    "behavior": {
-      "priceInquiry": 0,
-      "complaints": 1
-    }
+    "id": "INV1774456093230",
+    "product": "Produk Digital",
+    "status": "PENDING",
+    "step": "PAYMENT"
   },
   "6285814422462@s.whatsapp.net": {
     "id": "6285814422462@s.whatsapp.net",
