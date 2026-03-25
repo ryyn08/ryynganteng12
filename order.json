@@ -16,5 +16,14 @@
       "priceInquiry": 0,
       "complaints": 0
     }
+  },
+  "6285883881264@s.whatsapp.net": {
+    "id": "6285883881264@s.whatsapp.net",
+    "name": "R",
+    "order": null,
+    "behavior": {
+      "priceInquiry": 0,
+      "complaints": 0
+    }
   }
 }
