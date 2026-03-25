@@ -11,7 +11,12 @@
   "6285814422462@s.whatsapp.net": {
     "id": "6285814422462@s.whatsapp.net",
     "name": "Ignite Official",
-    "order": null,
+    "order": {
+      "id": "INV2749",
+      "product": "Produk Digital",
+      "status": "PENDING",
+      "step": "PAYMENT"
+    },
     "behavior": {
       "priceInquiry": 0,
       "complaints": 0
