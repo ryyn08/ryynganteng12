@@ -44,5 +44,14 @@
       "priceInquiry": 0,
       "complaints": 0
     }
+  },
+  "6282173655226@s.whatsapp.net": {
+    "id": "6282173655226@s.whatsapp.net",
+    "name": ".",
+    "order": null,
+    "behavior": {
+      "priceInquiry": 0,
+      "complaints": 0
+    }
   }
 }
