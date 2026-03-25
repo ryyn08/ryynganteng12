@@ -11,12 +11,7 @@
   "6285814422462@s.whatsapp.net": {
     "id": "6285814422462@s.whatsapp.net",
     "name": "Ignite Official",
-    "order": {
-      "id": "INV3736",
-      "product": "Produk Digital",
-      "status": "PENDING",
-      "step": "PAYMENT"
-    },
+    "order": null,
     "behavior": {
       "priceInquiry": 0,
       "complaints": 0
