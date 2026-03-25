@@ -53,5 +53,14 @@
       "priceInquiry": 0,
       "complaints": 0
     }
+  },
+  "269144779956478@lid": {
+    "id": "269144779956478@lid",
+    "name": "Kak",
+    "order": null,
+    "behavior": {
+      "priceInquiry": 0,
+      "complaints": 0
+    }
   }
 }
