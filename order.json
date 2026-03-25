@@ -1,0 +1,11 @@
+{
+  "13889974616127@lid": {
+    "id": "13889974616127@lid",
+    "name": "Kak",
+    "order": null,
+    "behavior": {
+      "priceInquiry": 0,
+      "complaints": 1
+    }
+  }
+}
